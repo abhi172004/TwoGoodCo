@@ -50,7 +50,7 @@ gsap.to(".nav-part-2 .links",{
     }
 })
 gsap.from(".nav-part-1 svg",{
-    transform:"translateY(100%)",
+    transform:"translateY(-100%)",
     scrollTrigger:{
         trigger:".page4",
         scroller:".main",
