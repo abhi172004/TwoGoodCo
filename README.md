@@ -89,7 +89,6 @@ cd TwoGoodCo
 ## 📌 Screenshots / Video 🎮
 
 ![image](https://github.com/user-attachments/assets/e5052287-71ce-433a-9946-9aefc706004c)
-![image](https://github.com/user-attachments/assets/e9f1a0a4-2499-4052-afff-29508af29118)
 ![image](https://github.com/user-attachments/assets/7cd3453a-db86-4491-a0df-7713ed2a2fa9)
 ![image](https://github.com/user-attachments/assets/8e23afa6-1c43-4679-9daa-94854de1e13f)
 
